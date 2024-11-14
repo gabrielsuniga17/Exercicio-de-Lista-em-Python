@@ -1,2 +1,2 @@
-# Exercicio-de-Lista-em-Python
+# Praticando listas em Python
  Adicionando e organizando valores em uma lista
